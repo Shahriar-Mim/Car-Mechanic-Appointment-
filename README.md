@@ -1,7 +1,7 @@
 # Car-Mechanic-Appointment-
 This is a final assignment to test PHP and MySql learning. 
 
-Available on :  [it maybe deactivated if it doesn't have any visitor for 30 days]
+Available on : http://appointmechanic.epizy.com  [it maybe deactivated if it doesn't have any visitor for 30 days]
 
 
 
