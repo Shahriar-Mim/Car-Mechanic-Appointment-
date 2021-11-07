@@ -7,7 +7,7 @@ Available on : http://appointmechanic.epizy.com  [it maybe deactivated if it doe
 
 
 
-Question:
+Requirements:
 
 CSE 391: Programming for the Internet
 Assignment 3: PHP and mySQL Project
@@ -61,5 +61,3 @@ which can validate the name, phone, car license no., car engine no., appointment
 example, that the field isn't empty), phone, car engine no. (that it has only number in it),
 Appointment date (that it has only date in it), must select a mechanic from the list to ensure the
 entry.
-Final mark
-This assignment contributes 1/4 of the continuous assessment part of the course grade. 
